@@ -73,8 +73,9 @@ We may update this Privacy Policy from time to time. We will notify users of any
 ## Contact Information
 
 If you have questions about this Privacy Policy, please contact us at:
-- Email: privacy@calchubpro.com
-- Website: https://calchubpro.com/privacy
+- Email: skslicactl@yahoo.com
+- Website: https://github.com/skslicactl/calchub-pro/blob/main/README.md
+- privacy policy : https://github.com/skslicactl/calchub-pro/edit/main/privacy-policy.md
 
 ## Data Protection Compliance
 
